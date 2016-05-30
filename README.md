@@ -1,2 +1,2 @@
 # golang-restufull-scredule
-A Schedule made with GO lang, using the restfull pattern
+One Schedule made with GO lang, using the restful pattern
